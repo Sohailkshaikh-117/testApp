@@ -1,0 +1,13 @@
+h1 {
+  color: chocolate;
+}
+
+p {
+  line-height: 1.5px;
+  font-style: italic;
+  color: crimson;
+}
+
+body {
+  background-color: rgb(240, 255, 202);
+}
