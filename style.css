@@ -1,13 +1,19 @@
 h1 {
-  color: chocolate;
+  color: #c5ffce;
+  text-align: center;
+  font-family: math;
 }
 
 p {
-  line-height: 1.5px;
-  font-style: italic;
-  color: crimson;
+  text-align: center;
+  color: #d3efff;
+  font-family: cursive;
+  font-size: 18px;
+  max-width: 900px;
+  margin: auto;
+  line-height: 2rem;
 }
 
 body {
-  background-color: rgb(240, 255, 202);
+  background-color: #092433;
 }
